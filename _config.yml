@@ -1,0 +1,28 @@
+name: BeCreativePianoStudio
+favicon: null
+layout_spectrum: 0.055517983390018344
+typography_spectrum: 0.9242517573293298
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.06449601426720619
+  lightness: 0.8943567436654121
+  saturation: 0.11478336970321834
+  rhythmicContrast: 0.6683580272365361
+purpose: []
